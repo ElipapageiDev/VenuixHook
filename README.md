@@ -1,6 +1,6 @@
 # elipapagei.xyz
 
-[![Screenshot-2025-01-17-221744.png](https://i.postimg.cc/xCWGf6KR/Screenshot-2025-01-17-221744.png)](https://postimg.cc/1nrVMc7n)
+[![Screenshot-2025-01-17-221744.png](https://i.postimg.cc/Bb3qqgwY/Screenshot-2025-01-20-221603.png)](https://postimg.cc/G8M0KkRG)
 
 ## Informations
 This is my free and open source Portfolio Website
