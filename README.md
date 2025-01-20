@@ -8,7 +8,7 @@ This is my free and open source Portfolio Website
 Discord Server : [EvoElite](https://discord.gg/ckW6Dyxk)
 
 ## Fetures
-- Real time discord rpc 
+- animations
 - cool design
 
 ## ⚠️ Disclamers
